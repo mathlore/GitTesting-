@@ -5,3 +5,4 @@ for i in range(0,10):
 
 print("uptodate")
 print("updated")
+print("updated")
